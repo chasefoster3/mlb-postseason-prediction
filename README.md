@@ -100,7 +100,10 @@ These findings suggest that successful teams balance both offensive production a
 
 ```
 code/
-    R scripts used throughout the analysis
+    R script used throughout the analysis
+
+data/
+    Excel files containing the data collected and used for the study
 
 figures/
     Visualizations generated during the study
