@@ -4,6 +4,8 @@
 **East Tennessee State University**  
 **Completed: May 2025**
 
+**Chase Foster**
+
 ---
 
 ## Overview
